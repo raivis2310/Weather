@@ -28,5 +28,5 @@ if ($data) {
 
     echo "$city: $temperature $temperatureUnit\n";
 } else {
-    echo "Error: Unable to fetch weather data.";
+    echo "Error: Unable to get weather data.";
 }
